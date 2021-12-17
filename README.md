@@ -1,1 +1,1 @@
-# DroopyMetrics
+# droopy-metrics
